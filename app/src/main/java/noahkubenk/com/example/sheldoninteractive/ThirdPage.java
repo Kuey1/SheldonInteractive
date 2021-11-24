@@ -9,6 +9,6 @@ public class ThirdPage extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_third_page);
+        setContentView(R.layout.activity_third_page);//load activity third page
     }
 }
